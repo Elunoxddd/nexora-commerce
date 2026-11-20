@@ -1,0 +1,59 @@
+[
+  {
+    "id": "mini-plancha-vapor",
+    "name": "Mini Plancha Vapor Viajera",
+    "price": "$89.900",
+    "badge": "Envío Nacional",
+    "image": "/plancha.webp",
+    "description": "Una mini plancha de vapor pensada para mantener tus prendas presentables en casa o durante un viaje.",
+    "imagePlaceholder": "from-teal-50 to-emerald-100 text-emerald-900",
+    "availability": "Consulta disponibilidad",
+    "shipping": "Envío nacional asegurado; entrega estimada de 2 a 5 días hábiles después del despacho.",
+    "warranty": "Consulta por WhatsApp las condiciones vigentes de la garantía de fábrica.",
+    "benefits": ["Formato compacto para llevar de viaje", "Ayuda a refrescar prendas con vapor", "Fácil de guardar en casa o equipaje"],
+    "specifications": [
+      { "label": "Dimensiones", "value": "Por confirmar con el proveedor" },
+      { "label": "Materiales", "value": "Por confirmar con el proveedor" },
+      { "label": "Alimentación", "value": "Por confirmar con el proveedor" },
+      { "label": "Contenido de la caja", "value": "Por confirmar con el proveedor" }
+    ]
+  },
+  {
+    "id": "consola-retro-a118",
+    "name": "A118 Retro Consola Master",
+    "price": "$119.900",
+    "badge": "Más Vendido",
+    "image": "/consola.webp",
+    "description": "Una consola de estilo retro para disfrutar momentos de entretenimiento en casa.",
+    "imagePlaceholder": "from-indigo-50 to-sky-100 text-indigo-900",
+    "availability": "Consulta disponibilidad",
+    "shipping": "Envío nacional asegurado; entrega estimada de 2 a 5 días hábiles después del despacho.",
+    "warranty": "Consulta por WhatsApp las condiciones vigentes de la garantía del producto.",
+    "benefits": ["Diseño inspirado en consolas clásicas", "Una opción de entretenimiento para compartir", "Formato práctico para usar en casa"],
+    "specifications": [
+      { "label": "Dimensiones", "value": "Por confirmar con el proveedor" },
+      { "label": "Materiales", "value": "Por confirmar con el proveedor" },
+      { "label": "Conectividad", "value": "Por confirmar con el proveedor" },
+      { "label": "Contenido de la caja", "value": "Por confirmar con el proveedor" }
+    ]
+  },
+  {
+    "id": "depilador-recargable",
+    "name": "Depilador Recargable Yes",
+    "price": "$84.900",
+    "badge": "Garantía de Fábrica",
+    "image": "/depilador.webp",
+    "description": "Un depilador recargable de formato portátil para acompañar tu rutina de cuidado personal.",
+    "imagePlaceholder": "from-pink-50 to-rose-100 text-rose-900",
+    "availability": "Consulta disponibilidad",
+    "shipping": "Envío nacional asegurado; entrega estimada de 2 a 5 días hábiles después del despacho.",
+    "warranty": "Consulta por WhatsApp las condiciones vigentes de la garantía de fábrica.",
+    "benefits": ["Diseño recargable y portátil", "Práctico para tu rutina de cuidado personal", "Fácil de guardar y transportar"],
+    "specifications": [
+      { "label": "Dimensiones", "value": "Por confirmar con el proveedor" },
+      { "label": "Materiales", "value": "Por confirmar con el proveedor" },
+      { "label": "Batería y carga", "value": "Por confirmar con el proveedor" },
+      { "label": "Contenido de la caja", "value": "Por confirmar con el proveedor" }
+    ]
+  }
+]
