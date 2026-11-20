@@ -34,14 +34,6 @@ const nextConfig: NextConfig = {
   images: process.env.CLOUDINARY_CLOUD_NAME ? {
     remotePatterns: [{ protocol: "https", hostname: "res.cloudinary.com", pathname: `/${process.env.CLOUDINARY_CLOUD_NAME}/image/upload/**` }],
   } : undefined,
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
-    },
-  },
 };
 
 export default nextConfig;
